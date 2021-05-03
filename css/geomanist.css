@@ -1,0 +1,262 @@
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-100.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-100.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-100.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-100.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-100.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-100.svg') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-100-italic.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-100-italic.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-100-italic.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-100-italic.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-100-italic.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-100-italic.svg') format('svg');
+    font-weight: 100;
+    font-style: italic;
+
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-200.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-200.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-200.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-200.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-200.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-200.svg') format('svg');
+    font-weight: 200;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-200-italic.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-200-italic.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-200-italic.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-200-italic.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-200-italic.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-200-italic.svg') format('svg');
+    font-weight: 200;
+    font-style: italic;
+
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-300-.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-300-.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-300.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-300.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-300.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-300.svg') format('svg');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-300-italic.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-300-italic.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-300-italic.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-300-italic.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-300-italic.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-300-italic.svg') format('svg');
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-400.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-400.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-400.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-400.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-400.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-400.svg') format('svg');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-400-italic.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-400-italic.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-400-italic.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-400-italic.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-400-italic.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-400-italic.svg') format('svg');
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-500.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-500.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-500.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-500.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-500.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-500.svg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-500-italic.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-500-italic.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-500-italic.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-500-italic.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-500-italic.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-500-italic.svg') format('svg');
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-600.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-600.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-600.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-600.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-600.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-600.svg') format('svg');
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-600-italic.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-600-italic.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-600-italic.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-600-italic.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-600-italic.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-600-italic.svg') format('svg');
+    font-weight: 600;
+    font-style: italic;
+
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-700.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-700.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-700.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-700.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-700.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-700.svg') format('svg');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-700-italic.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-700-italic.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-700-italic.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-700-italic.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-700-italic.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-700-italic.svg') format('svg');
+    font-weight: 700;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-800.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-800.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-800.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-800.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-800.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-800.svg') format('svg');
+    font-weight: 800;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-800-italic.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-800-italic.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-800-italic.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-800-italic.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-800-italic.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-800-italic.svg') format('svg');
+    font-weight: 800;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-900.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-900.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-900.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-900.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-900.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-900.svg') format('svg');
+    font-weight: 900;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'geomanist';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-900-italic.eot');
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-900-italic.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-900-italic.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-900-italic.woff') format('woff'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-900-italic.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/tristancade/geomanist/master/font/geomanist-900-italic.svg') format('svg');
+    font-weight: 900;
+    font-style: italic;
+
+}
