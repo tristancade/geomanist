@@ -225,6 +225,35 @@
 }
 
 @font-face {
+    font-family: 'source-serif-pro';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/source-serif-pro-700.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'source-serif-pro';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/source-serif-pro-700-italic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'source-serif-pro';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/source-serif-pro-900.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'source-serif-pro';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/source-serif-pro-900-italic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
     font-family: 'themysion';
     src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/themysion-400.ttf') format('truetype'),
          url('https://cdn.rawgit.com/tristancade/geomanist/master/font/themysion-400.woff') format('woff');
