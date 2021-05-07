@@ -316,3 +316,17 @@
     font-weight: 700;
     font-style: italic;
 }
+
+@font-face {
+    font-family: 'nunito-sans';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/nunito-sans-800.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'nunito-sans';
+    src: url('https://cdn.rawgit.com/tristancade/geomanist/master/font/nunito-sans-800-italic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
